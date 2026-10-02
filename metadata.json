@@ -1,0 +1,6 @@
+{
+  "name": "MineTwin - Predictive Gas Engine",
+  "description": "Módulo analítico y predictivo de gemelo digital de ventilación minera (MineTwin) para mezclas de metano, CO y etileno con sensores químicos a 100 Hz bajo metodología CRISP-DM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
